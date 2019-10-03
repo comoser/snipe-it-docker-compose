@@ -77,6 +77,10 @@ docker-compose down && docker-compose up -d --build
 
 You should be good and have everything available at:
 
-`localhost:3051`
+`http://localhost:3051`
 
-# Happy asset managing!
+Happy asset managing!!!
+
+# License
+
+[MIT](./LICENSE)
