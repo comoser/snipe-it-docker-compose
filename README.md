@@ -54,7 +54,7 @@ docker exec -it your-snipe-it-container-name sh
 You will then have shell access to the container and you need to run the following command on the root in order to get your API key:
 
 ```
-php artisan key:generate
+php artisan key:generate --show
 ```
 
 As the output you will have something like:
