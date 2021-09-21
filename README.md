@@ -13,6 +13,7 @@ In order to work, you will have to create a **.env** file in the root folder wit
 ```bash
 # Mysql Parameters
 MYSQL_PORT_3306_TCP_ADDR=snipe-mysql
+MYSQL_PORT_3306_TCP_PORT=3306
 MYSQL_ROOT_PASSWORD=YOUR_ROOT_PW
 MYSQL_DATABASE=snipeit
 MYSQL_USER=snipeit
