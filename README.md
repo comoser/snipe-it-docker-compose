@@ -37,7 +37,7 @@ MAIL_ENV_PASSWORD=your_email_pw
 APP_ENV=production
 APP_DEBUG=false
 APP_KEY={{INSERT_API_TOKEN}}
-APP_URL=http://127.0.0.1:80
+APP_URL=http://DOCKERHOST_IP:3051
 APP_TIMEZONE=Europe/London # you should change this to your timezone
 APP_LOCALE=en # you should change this for the desired language
 ```
